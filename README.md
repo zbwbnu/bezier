@@ -2,8 +2,7 @@
 
 ## 效果演果
 
-<video controls src="曲线.mp4" title="Title"></video>
-d:\Triangle\demo\o6zRnmeG_converted.gif
+![alt text](o6zRnmeG_converted-1.gif)
 
 
 ## 项目说明
