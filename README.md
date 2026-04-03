@@ -1,11 +1,11 @@
-# Triangle 三角形效果展示
+# Bezier曲线 效果展示
 
-## 效果演示
+## 效果演果
 
-![alt text](Triangle.gif)
+<video controls src="曲线.mp4" title="Title"></video>
+d:\Triangle\demo\o6zRnmeG_converted.gif
 
 
 ## 项目说明
 - 项目核心代码存放于 src/ 目录
 - 本地虚拟环境 .venv 已忽略
-- 运行命令：python triangle.py
